@@ -17,6 +17,6 @@ The goal is to strengthen fundamentals before moving into advanced reporting and
 - 09 – Dashboard Project
 
 Each section contains practical work, notes, and structured implementation.
-For a complete list of Excel shortcuts, see:
 
+For a complete list of Excel shortcuts, see:
 [Excel Shortcuts Master Reference](Excel_Shortcuts_Master.md)
