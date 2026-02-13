@@ -157,3 +157,5 @@ The concepts applied here form the foundation for advanced analytical tools such
 ---
 
 📘 Detailed theoretical explanations and interview notes are available in the corresponding Medium article.
+
+https://medium.com/@chandana-analytics/mastering-essential-excel-functions-for-business-reporting-d14c09d15ddb
