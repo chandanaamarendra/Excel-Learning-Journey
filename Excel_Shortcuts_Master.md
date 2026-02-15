@@ -134,3 +134,33 @@ KPIs
 | `Tab` (in last column of table) | Add new row            |
 | `Ctrl + Shift + +`              | Insert new row         |
 | `Ctrl + -`                      | Delete row             |
+
+## 📊 Excel Shortcuts for Text & Date Functions and Data Cleaning
+
+| Shortcut                     | Action                | Use Case                                |
+| ---------------------------- | --------------------- | --------------------------------------- |
+| `F2`                         | Edit selected cell    | Edit formulas like LEFT, RIGHT, DATEDIF |
+| `Ctrl + C`                   | Copy                  | Copy data or formulas                   |
+| `Ctrl + V`                   | Paste                 | Paste copied content                    |
+| `Ctrl + D`                   | Fill down             | Apply formula to cells below            |
+| `Ctrl + R`                   | Fill right            | Apply formula to cells on the right     |
+| `Ctrl + Alt + V`             | Paste Special         | Paste values, formulas, or formats      |
+| `Ctrl + Alt + V → V → Enter` | Paste values only     | Remove formulas and keep results        |
+| `Ctrl + A`                   | Select all data       | Select entire dataset                   |
+| `Ctrl + Space`               | Select entire column  | Work with full column                   |
+| `Shift + Space`              | Select entire row     | Work with full row                      |
+| `Ctrl + Shift + Down Arrow`  | Select cells downward | Select large column data                |
+| `Ctrl + Shift + Up Arrow`    | Select cells upward   | Navigate large datasets                 |
+| `Ctrl + Shift + Right Arrow` | Select cells right    | Select row data quickly                 |
+| `Ctrl + Shift + Left Arrow`  | Select cells left     | Navigate efficiently                    |
+| `Ctrl + ;`                   | Insert current date   | Used in date tracking                   |
+| `Ctrl + Shift + ;`           | Insert current time   | Used in time tracking                   |
+| `Ctrl + 1`                   | Open Format Cells     | Format dates and numbers                |
+| `Ctrl + E`                   | Flash Fill            | Automatically extract or format text    |
+| `Ctrl + Z`                   | Undo                  | Reverse last action                     |
+| `Ctrl + Y`                   | Redo                  | Repeat last action                      |
+| `Ctrl + Arrow Keys`          | Navigate data edges   | Move across large datasets              |
+| `Tab`                        | Move to next cell     | Faster data entry                       |
+| `Shift + Tab`                | Move to previous cell | Reverse navigation                      |
+| `Enter`                      | Move down             | Confirm formula entry                   |
+| `Shift + Enter`              | Move up               | Navigate upward                         |
