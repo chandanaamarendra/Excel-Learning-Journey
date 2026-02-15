@@ -1,11 +1,11 @@
-Excel Data Analysis – Text & Date Functions
-📌 Overview
+# Excel Data Analysis – Text & Date Functions
+### 📌 Overview
 
 This project demonstrates the practical use of essential Excel Text and Date functions used in real-world MIS reporting and Data Analytics. The objective was to clean raw employee data, extract structured information from IDs, and calculate employee experience dynamically.
 
 These functions are widely used in HR analytics, reporting systems, and business dashboards.
 
-📂 Dataset Used
+## 📂 Dataset Used
 
 The dataset contains the following columns:
 
@@ -17,7 +17,7 @@ Joining Date
 
 <img width="384" height="179" alt="image" src="https://github.com/user-attachments/assets/a7221fb2-3b5b-4fb6-b29f-f342809dcd4a" />
 
-🧹 Data Cleaning & Transformation Performed
+## 🧹 Data Cleaning & Transformation Performed
 
 The following transformations were applied:
 
@@ -64,7 +64,7 @@ Year: =YEAR(C2)
 <img width="1472" height="222" alt="image" src="https://github.com/user-attachments/assets/ca68503e-0a01-48a8-a368-a0b2d450aef9" />
 
 
-**📊 Final Output Columns Created**
+## **📊 Final Output Columns Created**
 
 Clean Name
 
@@ -79,7 +79,7 @@ Joining Month
 Joining Year
 
 
-**💼 Business Use Case**
+## **💼 Business Use Case**
 
 In real-world business environments, employee data is often stored in raw formats where important information such as department codes and employee experience must be extracted and standardized.
 
@@ -98,7 +98,7 @@ Preparing structured data for visualization tools like Power BI and Tableau
 These techniques are commonly used by Data Analysts, MIS Executives, and HR Analysts to transform raw data into actionable insights.
 
 
-**📈 Project Impact**
+## **📈 Project Impact**
 
 This project demonstrates the practical application of Excel Text and Date functions in transforming raw organizational data into structured, analysis-ready information.
 
@@ -119,17 +119,17 @@ These skills are fundamental in Data Analyst and MIS roles, where raw data must 
 This project reflects my hands-on learning approach and commitment to building strong foundational skills in data analytics.
 
 
-**🛠 Tools Used**
+## **🛠 Tools Used**
 
 Microsoft Excel
 
-**🚀 Key Learning Outcome**
+## **🚀 Key Learning Outcome**
 
 This project strengthened my ability to clean raw data and extract meaningful information using Excel functions. These skills form the foundation of real-world data analysis and reporting workflows.
 
 For concept explanation, interview-focused discussion, and learning insights, you can read my Medium article:
 
-🔗 Read Medium Article:
+🔗 Read Medium Article:https://medium.com/p/ba6d7386e881?postPublishedType=initial
 
 ## 👩‍💻 Author
 
