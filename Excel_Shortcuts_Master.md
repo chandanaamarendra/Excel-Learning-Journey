@@ -1,4 +1,4 @@
-# Excel Shortcuts – Master Reference
+# Excel Shortcuts
 
 This file contains all important Excel shortcuts collected throughout the learning journey.
 
