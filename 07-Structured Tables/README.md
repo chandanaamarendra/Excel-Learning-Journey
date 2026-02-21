@@ -1,4 +1,4 @@
-# Structured Tables in Excel
+# 💠Structured Tables in Excel
 
 ## Introduction to Structured Tables
 
