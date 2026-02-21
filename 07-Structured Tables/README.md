@@ -110,6 +110,6 @@ This skill is widely used by Data Analysts in business intelligence and reportin
 
 ## Author
 
-Chandana A
+Chandana A  
 Aspiring Data Analyst  
 Focused on building strong foundations in Excel, SQL, Python, and Data Visualization
